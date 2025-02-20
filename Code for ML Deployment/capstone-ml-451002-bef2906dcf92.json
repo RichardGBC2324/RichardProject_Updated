@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "capstone-ml-451002",
+  "private_key_id": "bef2906dcf9215fb4fce234da808a5671ed5d5cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC0M+7QqhBFkjcc\nFccW4PBsngOYx8Syt9ZEMa5PQ9zwOSt4Xu3YeOaObfeBTD5BQ4lu4DIfVVtoJrbZ\niRQEAkPu2sXTsyrnmibzjwG81SrDryy4izf4u4SbAHCpa3JoX6RVFiAd66VfOqdt\nmT3dmRCdD8t84kGTeqvN8HVhnsUbcOkN20Xjr0uPK04IUz2WBwIj9MI4QLj44XpH\n+81aPRMamxElHYlXIcv8L2+ZH+OMHuGFAj8XKzZTzhxUTEc7y8Zp9c4TNwSE5nOX\neswhGqtHjqq/LGPI3HITfXiva9PSG/lxCuvjT7hysqtwDHGDboJgZrFd3plAgD/W\nVoWi1MZDAgMBAAECggEADnea5TK6ErPN69nNvYb6lmXLOSFUp9p9f8UTTvbOTpTw\naf4JD1eJfwbSF5XU661t47JpI73ZFFADXwyTyEycQplax4e7WpO0K9qf05azk7lF\nGF3I9RWs7DrJULi5GysOiOw5UN2hzbbqSTDD2D4ZKNrjRdfuVtZC48o5ykgSYAT6\niBh/mmXbT2MCNfqHreFwg2fMfX4vOkHQDlZJ8Mu5d8AcbQEVlOicI0KLmqYKeajt\n5mf31bEQ53z+9FoXHTaow+QIwlOhgPE/i3QHE1h+IXuwAHqNdmnl3Q3jocxqCa1x\nZeSfzQCf708h9II3AwVJeMPR8LIFkYpf0lmEOM0AkQKBgQDlwTuP0ndVDd7Y3Mav\nxrrQyDp4qd7z9LNuG+6/sXylPdUDZ/XBMu41tTfvjHFFYEgdCmmhonh8nzsxsS8q\nWvzYgamS77XVA1HDkz6p1Zf4u5uLtC7Ab/Yv6mCYALkBAjbTsBiv39d/T8mMP6XS\nWdXlOJwaz+Yq3LNkF8G4YZEKMQKBgQDIyaRrzMlupcZPagj7dXlf2yQLdTG8bncp\nSPW1qXL7O06e30MlcDdUyyFNPnMOxjPd1hlSLaRRmsqa+LI+N3M9SUDWn6E1gvSK\nCACN2o3KwP4qsBNdk8E+GacGgLeND2pi6+IrMmz2aKeecLDLuCRHhQAyQDiYQTWF\nzum55iWGswKBgQDKYAXV7n5cdgZIIVgFttgRVX1jkcWoP2/ZWlNXmMABUVCTWnw3\nPGRk/IYTxDJ1+JQsuGJJFLJqm1tprverqE+1aajzm6AfzHe1/LoioNjnKGGfkgvo\nR/ajSCDjYyeSgt/GYQOtz06jfqU6m0m12pm0+cNPPrcwJA0D6oUhoxc90QKBgQCP\neK4ZLUqd2qyaYE0sySNCYEcgPMyeNVzGTlDsTrlPVXB3S1cicE3JNCCGnmH+o5e6\nItsTAnQQr4eoNp6+oEai+y3ubj/2Ca4M12z1774zq7Wx8QDVc9e4NQJJPj5p+CLv\nrld8wFpltCBZsXJTDzA1Po8GWSdXe/jvtQsDf7U+ywKBgQDNgqgcni7hB6EWzm5S\nk/pvVx7iZYKBZSMJrD82KgFO4Mgg0VPY1syzXoWHbXnyQHxzTWFHTuTi1XCdYK/I\nrPg4/379DJAZReulFePhJSk3aON2r3hErf1TOGwAsfSqK2rxw111RNQc/DHurSK+\nwvEI5Vqh0ATMLAaWzPdODce26Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "model-deployment-richard-pan@capstone-ml-451002.iam.gserviceaccount.com",
+  "client_id": "101012568005367112890",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/model-deployment-richard-pan%40capstone-ml-451002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
